@@ -1,0 +1,25 @@
+{
+  "name": "symbolic-regression-with-genetic-programming",
+  "version": "1.0.0",
+  "description": "Symbolic Regression with Genetic Programming is a Python class that performs symbolic regression using genetic programming techniques. It allows users to discover mathematical expressions that best fit the given data, without making any assumptions about the form of the underlying function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isauo/Symbolic-Regression-with-Genetic-Programming"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "numpy": "^1.21.3",
+    "scikit-learn": "^0.24.2",
+    "matplotlib": "^3.4.3",
+    "random-famous-library1": "^1.0.0",
+    "random-famous-library2": "^2.0.0",
+    "reinforcement-learning-with-deep-q-networks": "^1.0.0"
+  }
+}
+
